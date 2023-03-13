@@ -31,4 +31,4 @@ I'm <a href="#">Shiva Chunbuk</a>  😊😊. Currently  I am pursuing B.Tech in 
 - 💬 Ask me about Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:shivachunbuk17@gmail.com">shivachunbuk17@gmail.com  ✉ </a> .
 - 😄 Pronouns: Shiva,Miller.
-- 😊 My Favorite to do CP(Competitive Programming).
+<!-- - 😊 My Favorite to do CP(Competitive Programming). -->
