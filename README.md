@@ -25,7 +25,7 @@ I'm <a href="#">Shiva Chunbuk</a>  😊😊. Currently  I am pursuing B.Tech in 
 
 *Talking about Personal Stuff:*
 
-- 🌱 I’m currently learning CP .
+<!-- - 🌱 I’m currently learning CP . -->
 - 👯 I’m currently learning Web Developement.
 - 🤔 I’m looking for good internship opportunity.
 - 💬 Ask me about Competitive Programming and Technology in general. 
