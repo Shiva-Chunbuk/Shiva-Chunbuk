@@ -29,6 +29,6 @@ I'm <a href="#">Shiva Chunbuk</a>  😊😊. Currently,  I am pursuing B.Tech in
 - 👯 I’m interested in Web development and Competitive Programming.
 - 🤔 I’m looking for good internship opportunity.
 - 💬 Ask me about Web development and Technology in general. 
-- 📫 How to reach me: <a href="mailto:shivachunbuk17@gmail.com">shivachunbuk17@gmail.com  ✉ </a> .
+- 📫 How to reach me: <a href="mailto:shiva21102@iiitnr.edu.in">shiva21102@iiitnr.edu.in  ✉ </a> .
 - 😄 Pronouns: Shiva, Miller.
 <!-- - 😊 My Favorite to do CP(Competitive Programming). -->
