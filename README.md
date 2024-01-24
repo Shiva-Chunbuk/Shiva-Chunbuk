@@ -13,6 +13,12 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
 - 👋 Pronouns: Shiva, Miller.-->
 
 # 💫 About Me:
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=shiva017&color=blueviolet)](https://github.com/shiva017)
+
+</div>
+
 
 <h1 align="center">✨ Hi there 👩‍💻, I'm Shiva Chunbuk</h1> <br><br>Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from <a href ="#">IIIT Naya Raipur 🏢 .</a><br><br>*Talking about Personal Stuff:*<br><br>- 🌐 I’m interested in Front-end web development and Competitive Programming.<br>- 🌟 I’m looking for a good internship opportunity.<br>- 💬 Ask me about ML and Technology in general.<br>- ✉ How to reach me: <a href="mailto:shiva21102@iiitnr.edu.in">shiva21102@iiitnr.edu.in 📧 </a>.<br>- 👋 Pronouns: Shiva, Miller.
 
@@ -32,7 +38,8 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva017&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 
----
-[![](https://visitcount.itsvg.in/api?id=shiva017&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
