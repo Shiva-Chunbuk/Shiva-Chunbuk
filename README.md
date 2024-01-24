@@ -13,9 +13,8 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
 - 👋 Pronouns: Shiva, Miller.-->
 
 # 💫 About Me:
-<p align="center">✨ Hi there 👩‍💻 </p>
 
-## I'm Shiva Chunbuk  <br><br>Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from <a href ="#">IIIT Naya Raipur 🏢 .</a><br><br>*Talking about Personal Stuff:*<br><br>- 🌐 I’m interested in Front-end web development and Competitive Programming.<br>- 🌟 I’m looking for a good internship opportunity.<br>- 💬 Ask me about ML and Technology in general.<br>- ✉ How to reach me: <a href="mailto:shiva21102@iiitnr.edu.in">shiva21102@iiitnr.edu.in 📧 </a>.<br>- 👋 Pronouns: Shiva, Miller.
+<h1 align="center">✨ Hi there 👩‍💻, I'm Shiva Chunbuk</h1> <br><br>Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from <a href ="#">IIIT Naya Raipur 🏢 .</a><br><br>*Talking about Personal Stuff:*<br><br>- 🌐 I’m interested in Front-end web development and Competitive Programming.<br>- 🌟 I’m looking for a good internship opportunity.<br>- 💬 Ask me about ML and Technology in general.<br>- ✉ How to reach me: <a href="mailto:shiva21102@iiitnr.edu.in">shiva21102@iiitnr.edu.in 📧 </a>.<br>- 👋 Pronouns: Shiva, Miller.
 
 
 ## 🌐 Socials:
