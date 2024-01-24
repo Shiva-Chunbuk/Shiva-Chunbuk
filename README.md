@@ -23,8 +23,6 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ShivaChunbuk)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054308738814)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:bytx02@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.gg/miller6420)
-
 
 
 # 💻 Tech Stack:
