@@ -20,7 +20,7 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
 </div>
 
 
-<h1 align="center">✨ Hi there 🎓, I'm Shiva Chunbuk</h1> <br><br>Currently, I am pursuing B.Tech in Data Science and AI from <a href ="#"> 🎓 International Institute of Information Technology, Naya Raipur.</a><br><br>*Talking about Personal Stuff:*<br><br>- 🌐 I’m interested in Front-end web development and Competitive Programming.<br>- 🌟 I’m looking for a good internship opportunity.<br>- 💬 Ask me about ML and Technology in general.<br>- ✉ How to reach me: <a href="mailto:bytx02@gmail.com">  📧 bytx02@gmail.com</a>.<br>- 👋 Pronouns: Shiva, Miller.
+<h1 align="center">✨ Hi there 🎓, I'm Shiva Chunbuk</h1> <br><br>Currently, I am pursuing B.Tech in Data Science and AI from <a href ="#"> 🎓 International Institute of Information Technology [IIIT], Naya Raipur.</a><br><br>*Talking about Personal Stuff:*<br><br>- 🌐 I’m interested in Front-end web development and Competitive Programming.<br>- 🌟 I’m looking for a good internship opportunity.<br>- 💬 Ask me about ML and Technology in general.<br>- ✉ How to reach me: <a href="mailto:bytx02@gmail.com">  📧 bytx02@gmail.com</a>.<br>- 👋 Pronouns: Shiva, Miller.
 
 
 ## 🌐 Socials:
