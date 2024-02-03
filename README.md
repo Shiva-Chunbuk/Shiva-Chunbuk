@@ -41,7 +41,7 @@ Currently, I am pursuing B.Tech in Data Science and Artificial Intelligence from
 ![Competitive Coding](https://img.shields.io/badge/Competitive%20Coding-%2325A162?style=for-the-badge)
 # 📊 GitHub Stats:
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva017&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-chunbuk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 
 
